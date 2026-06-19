@@ -4,13 +4,8 @@
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Lin, Z.</strong>, Hui, E. C. M., & Yang, H. (2026). From battlements to boom: The enduring influence of historical walled city on housing prices. <strong>Real Estate Economics</strong>, forthcoming. [[Paper]](https://doi.org/10.1111/1540-6229.70052)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- 杨嬛, <strong>林振宇</strong> &  刘修岩. (2026). 城市中心跨越世纪的记忆与嬗变：从历史城墙到现代天际线. <strong>世界经济</strong>, 49 (04), 138-166. [[Paper]](https://doi.org/10.19985/j.cnki.cassjwe.2026.04.008.)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- <strong>Lin, Z.</strong>, Wang, Z., Xie, K., & Yang, H. (2026). The origin of land preference culture: Land scarcity in history and household real estate investment today. <strong>China Economic Review</strong>, 102687. [[Paper]](https://doi.org/10.1016/j.chieco.2026.102687)
