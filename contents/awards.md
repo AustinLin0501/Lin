@@ -1,12 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 第十二届中国区域、城市与空间经济学国际研讨会Best student paper award, 2025
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 上海财经大学校级优秀学生, 2023
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- 上海财经大学研究生二等学业奖学金, 2022, 2023, 2024, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 上海财经大学千村调查优秀调研报告一等奖, 2024.
